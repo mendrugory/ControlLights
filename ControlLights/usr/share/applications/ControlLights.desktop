@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ControlLights
+Comment=Control Arduino Lights
+Exec=/usr/bin/ControlLights
+Icon=/usr/share/ControlLights/traffic-lights.ico
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Other
+StartupNotify=true

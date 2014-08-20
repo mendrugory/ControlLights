@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar /usr/lib/ControlLights/ControlLights-1.0-SNAPSHOT.jar

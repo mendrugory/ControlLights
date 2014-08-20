@@ -1,0 +1,8 @@
+Package: ControlLights
+Version: 1.0
+Section: Arduino
+Priority: optional
+Architecture: all
+Maintainer: mendrugory
+Installed-Size: 197
+Description: App to control the arduino's lights.
